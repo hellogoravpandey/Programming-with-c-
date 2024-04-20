@@ -1,0 +1,35 @@
+important points 
+
+1. Byte is the smallest addressable unit in modern computers.
+2. bit manipulation  ---- every object in c++ are groups of bit  and changing\modifying each bit is known as bit manipulation.
+
+3. bit flag 
+        3.1  flag is a value that signals    for a condition , of its existance.
+        3.2 bit flag uses 0 or 1 as a signal
+
+
+
+4.  bit indexing 
+               4.1   from right to left ( starts from 0 to inf)
+
+
+BITWISE operator
+
+5. use bitwise operator with unsigned integer  ----(safer)
+
+
+ther are 6  
+         5.1   shifting 
+                    5.1.1 left shifting <<
+                    5.1.2  right shifting >>
+         5.2    
+               5.2.1 bitwise or (|)   
+               5.2.2
+                      bitwise and (&)
+         
+         5.3   xor(^)
+         5.4   not (~)
+
+
+
+6.   how to do rotation   ==========>>      right + left shift  to the bit object   refer to the code 

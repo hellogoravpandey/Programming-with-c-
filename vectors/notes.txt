@@ -1,0 +1,5 @@
+vectors 
+vector is a template class  it includes ::
+
+1. dynamic arrays 
+2. when we resize the array it actually copies the content of the previous array to the new larger size array 

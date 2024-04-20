@@ -1,0 +1,21 @@
+learnings 
+
+
+1. why direct std::cout of file object returns error however !file object retuurns 0 ???
+
+    1.1   due to the defination of classes like this.
+
+    1.2   std::cout output only certain types of data types like string , char , int etc 
+           file object is complex  . however it totally depends upon the classes have whether define object output or not 
+
+
+
+2. however if can handle direct object inside it . 
+
+
+
+
+3. why we need to specify the size of the data we going to store inside the bnary file as a argument in f.write function ???    as we have already given the pointer to file object 
+
+
+    3.1   buffer size==size and  when filled  redirected to the file 

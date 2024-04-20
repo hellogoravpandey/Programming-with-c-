@@ -1,0 +1,20 @@
+1. const have two cases 
+
+
+  1.1 VARIABLES
+         
+         const int a=6;
+       here a cant be reassigned  
+
+  1.2  POINTERS 
+
+        two cases 
+
+
+         1.2.1   const int* a=&b;
+             here   value at b from the a cant be done  (*a =5   not possible)
+
+        1.2.2   int* const a=&b;
+           here  a variable value (address ) cant be modified(  a=&n   not possible)
+
+        1.2.3   const int* const a =&b;
