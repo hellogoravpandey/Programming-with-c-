@@ -16,8 +16,6 @@ important points
 BITWISE operator
 
 5. use bitwise operator with unsigned integer  ----(safer)
-
-
 ther are 6  
          5.1   shifting 
                     5.1.1 left shifting <<
@@ -33,3 +31,6 @@ ther are 6
 
 
 6.   how to do rotation   ==========>>      right + left shift  to the bit object   refer to the code 
+
+
+7. continue.....
